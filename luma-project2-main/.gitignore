@@ -1,0 +1,11 @@
+# Laravel
+luma-backend/vendor/
+luma-backend/.env
+luma-backend/storage/logs/*
+
+# React
+luma-frontend/node_modules/
+luma-frontend/dist/
+
+# Docker
+*.log
